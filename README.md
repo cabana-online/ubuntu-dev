@@ -1,2 +1,2 @@
-# ubuntu-dev
-An ubuntu image to work wherever Alpine doesn't.
+# Ubuntu Dev
+Th Ubuntu minimal container extended with dev libraries and a script to remove them.
