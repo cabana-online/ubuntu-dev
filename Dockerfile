@@ -1,4 +1,4 @@
-FROM cabanaonline/ubuntu:1.0
+FROM cabanaonline/ubuntu:16.04
 
 # Metadata
 LABEL base.image="cabanaonline/ubuntu"
